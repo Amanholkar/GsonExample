@@ -1,0 +1,23 @@
+{
+  "address": {
+    "city": "Indore",
+    "country": "India"
+  },
+  "age": 22,
+  "family": [
+    {
+      "age": 50,
+      "role": "father"
+    },
+    {
+      "age": 49,
+      "role": "mother"
+    },
+    {
+      "age": 22,
+      "role": "son"
+    }
+  ],
+  "first_Name": "Aman Holkar",
+  "mail": "amanholkar00@gmail.com"
+}
